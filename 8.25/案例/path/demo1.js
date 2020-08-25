@@ -1,0 +1,1 @@
+我是path里面的demo1.js文件
